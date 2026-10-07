@@ -1,0 +1,4 @@
+ryu>=4.34
+eventlet==0.30.2
+networkx>=2.5,<3.0
+pytest>=7.0
